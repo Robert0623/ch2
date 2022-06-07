@@ -47,7 +47,7 @@ public class YoilTeller {
         out.println(yoil+"요일입니다.");
         out.println("</body>");
         out.println("</html>");
-        //스트림을 닫음음
+        //스트림을 닫음
         out.close();
     }
 }

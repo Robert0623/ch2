@@ -28,8 +28,9 @@
 		<level value="info" />
 	</logger>
 
+<!-- value값 info, trace -->
 	<logger name="org.springframework.web">
-		<level value="info" />
+		<level value="trace" />
 	</logger>
 
 	<!-- Root Logger -->
