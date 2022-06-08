@@ -30,7 +30,7 @@
 
 <!-- value값 info, trace -->
 	<logger name="org.springframework.web">
-		<level value="trace" />
+		<level value="info" />
 	</logger>
 
 	<!-- Root Logger -->
