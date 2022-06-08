@@ -14,7 +14,7 @@
 - 이번엔 STS에서 깃허브 연동 후 ch2-1 ~ ch2-17까지 학습내용 commit, push.
 - conflicts 발생해서 비교화면에서 최신내용으로 수정 후 충돌해결.
 
-## 06.07
+## 06.08
 - 어제까지 내용 깃허브 홈페이지에서 readme작성.
 - STS에서 오전에 ch2-18 ~ ch2-21 학습한 내용을 로컬dev에 commit, 로컬dev와 로컬main을 merge, 로컬에서 원격 dev와 main에 push.
 - 로컬에서 원격 dev로는 push됐지만, 원격 main으로는 푸쉬가 rejected됨.
@@ -22,3 +22,4 @@
 - head 및 모든 브랜치가 동기화 됐지만 깃허브 사이트에 readme파일 사라짐.
 - readme파일 다시 작성.
 - 깃허브 사이트의 main브랜치에 readme를 작성했는데, STS에서 rejected된 것을 force로 밀어버려서 사라졌다고 예상됨. 
+- readme 작성 후 STS에서 readme를 pull 하고, ch2-22 ~ ch2-26 로컬 dev 커밋, 로컬 main과 merge, 원격 dev, main에 푸쉬하니 충돌 없이 잘 되었음.
