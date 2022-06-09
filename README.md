@@ -23,3 +23,9 @@
 - readme파일 다시 작성.
 - 깃허브 사이트의 main브랜치에 readme를 작성했는데, STS에서 rejected된 것을 force로 밀어버려서 사라졌다고 예상됨. 
 - readme 작성 후 STS에서 readme를 pull 하고, ch2-22 ~ ch2-26 로컬 dev 커밋, 로컬 main과 merge, 원격 dev, main에 푸쉬하니 충돌 없이 잘 되었음.
+
+## 06.09
+- STS에서 ch2-26 ~ ch2-29 학습한 내용 어제와 똑같이 commit, merge, push. 
+- web.xml, servlet-context.xml 등 수정한 파일이 있지만, 그 소스 파일의 위 또는 아래에 복사하니 conflicts 없었음.
+- local dev, local main, origin dev, origin main 4개의 branch가 동기화 되면서 commit되게 하는 중.
+- readme 수정 후, STS에서 pull 할 예정.
