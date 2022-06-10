@@ -34,7 +34,7 @@
 - 깃허브 사용 방법
 1. 최신으로 pull(ex. readme.md)
 2. 코드 작성 후, 로컬 dev로 check out해서 commit
-3. 로컬 main으로 check out해서 merge
+3. 로컬 main으로 check out해서 로컬 dev에서 merge
 4. 각 로컬 브랜치에서 origin으로 push
 - ch2-30, ch2-31
 - 데이터 변환(WebDataBinder), 검증(Validator)
